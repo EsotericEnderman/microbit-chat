@@ -25,5 +25,11 @@
     "files.exclude": {
         "**/pxt_modules": true,
         "**/.pxt": true
-    }
+    },
+    "cSpell.words": [
+        "jekyll",
+        "makecode",
+        "microbit",
+        "tsprj"
+    ]
 }
