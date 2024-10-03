@@ -1,6 +1,6 @@
 {
     "name": "micro-chat",
-    "description": "",
+    "description": "Chat using microbits.",
     "dependencies": {
         "core": "*",
         "radio": "*"
