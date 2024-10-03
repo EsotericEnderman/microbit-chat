@@ -3,8 +3,7 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*",
-        "microphone": "*"
+        "radio": "*"
     },
     "files": [
         "main.ts",
