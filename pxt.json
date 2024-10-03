@@ -1,5 +1,5 @@
 {
-    "name": "micro-chat",
+    "name": "microbit-chat",
     "description": "Chat using microbits.",
     "dependencies": {
         "core": "*",
